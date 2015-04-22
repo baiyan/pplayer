@@ -1,0 +1,10 @@
+  device1:eth1
+  device2:eth2
+  device1ip:4.4.4.54
+  device2ip:5.5.5.54
+  device1nat:0.0.0.0
+  device2nat:0.0.0.0
+  device1-4to6:2014::1
+  device2-4to6:2014::2
+  fwmac1:00:0C:29:F4:FE:CA 
+  fwmac2:00:0C:29:F4:FE:D4 

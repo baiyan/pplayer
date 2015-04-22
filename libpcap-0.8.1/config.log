@@ -1,0 +1,49 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:640: checking host system type
+configure:661: checking target system type
+configure:679: checking build system type
+configure:768: checking for gcc
+configure:881: checking whether the C compiler (gcc  ) works
+configure:897: gcc -o conftest    conftest.c  1>&5
+configure:923: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:928: checking whether we are using GNU C
+configure:956: checking whether gcc accepts -g
+configure:993: checking gcc version
+configure:1136: checking for inline
+configure:1194: checking for __attribute__
+configure:1242: checking for u_int8_t using gcc
+configure:1280: checking for u_int16_t using gcc
+configure:1318: checking for u_int32_t using gcc
+configure:1357: checking how to run the C preprocessor
+configure:1440: checking for sys/ioccom.h
+configure:1440: checking for sys/sockio.h
+configure:1440: checking for ifaddrs.h
+configure:1440: checking for limits.h
+configure:1440: checking for netinet/if_ether.h
+configure:1479: checking for ANSI ioctl definitions
+configure:1526: checking for ether_hostton
+configure:1526: checking for strerror
+configure:1526: checking for strlcpy
+configure:1584: checking for vsnprintf
+configure:1584: checking for snprintf
+configure:1643: checking if --disable-protochain option is specified
+configure:1674: checking packet capture type
+configure:1712: checking for getifaddrs
+configure:1836: checking if --enable-ipv6 option is specified
+configure:1852: checking whether to build optimizer debugging code
+configure:1868: checking whether to build parser debugging code
+configure:1953: checking Linux kernel version
+configure:1978: checking if if_packet.h has tpacket_stats defined
+configure:2024: checking whether we have /proc/net/dev
+configure:2089: checking whether we have DAG API
+configure:2161: checking for flex
+configure:2195: checking for flex 2.4 or higher
+configure:2221: checking for bison
+configure:2363: checking for ranlib
+configure:2431: checking if sockaddr struct has sa_len member
+configure:2466: checking if sockaddr_storage struct exists
+configure:2501: checking if dl_hp_ppa_info_t struct has dl_module_id_1 member
+configure:2537: checking if unaligned accesses fail
+configure:2657: checking for a BSD compatible install
